@@ -7,7 +7,7 @@ layout: default
 title: Home
 ---
 
-**AnATLyzer** is a static analyser for ATL, available as an extension of the ATL IDE. 
+**AnATLyzer** is a powerful static analyser for [ATL](https://www.eclipse.org/atl/). It is available as an Eclipse plug-in which extends the ATL IDE with features to enhance developer productivity. 
 
  <div class="slideshow-container">
   <div class="mySlides fade">
@@ -103,5 +103,5 @@ AnATLyzer has a number of features intended to increase the correctness of the t
 * A large catalogue of quick fixes
 * Visualizations of rule relationships
 * Integration with the standard ATL editor
-* A programmatic API to easily manipulated typed ATL programs
+* A programmatic API to easily manipulate typed ATL programs
 

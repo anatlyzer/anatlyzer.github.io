@@ -22,4 +22,6 @@ permalink: /usage/
 
 ## Additional information
 
-There is some additional information in the Github wiki: [https://github.com/anatlyzer/anatlyzer/wiki](https://github.com/anatlyzer/anatlyzer/wiki) 
+You can have a look at the slides of our [MoDELS'17 Tutorial](https://github.com/jesusc/anatlyzer-models17). 
+
+There is also some additional information in the Github wiki: [https://github.com/anatlyzer/anatlyzer/wiki](https://github.com/anatlyzer/anatlyzer/wiki) 
