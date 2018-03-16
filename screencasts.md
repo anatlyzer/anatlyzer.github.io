@@ -3,7 +3,6 @@ layout: page
 title: Screencasts
 permalink: /screencasts/
 ---
-# Screencasts
 
 ### ICSE Demo
 
