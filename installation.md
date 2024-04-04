@@ -15,7 +15,7 @@ permalink: /installation/
 
 ### Update site
 
-* The update site is at [http://sanchezcuadrado.es/projects/anatlyzer/sites/anatlyzer.updatesite](http://sanchezcuadrado.es/projects/anatlyzer/sites/anatlyzer.updatesite)
+* The update site is at [http://models-lab.inf.um.es/tools/anatlyzer/anatlyzer.updatesite/](http://models-lab.inf.um.es/tools/anatlyzer/anatlyzer.updatesite/)
 * Go to `Help -> Install New Software` 
 * Click on the `Add...` button to add the update site
 * Locate the update site in the `Work with` combo box
